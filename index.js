@@ -4,4 +4,4 @@ console.log('this code was called');
 
 console.log('bob');
 
-console.log('bob', 'is the ')
+console.log('bob', 'is the driver variable name')
